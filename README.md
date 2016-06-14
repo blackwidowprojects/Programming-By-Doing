@@ -10,10 +10,13 @@ Written using Atom code editor. Compiled and tested through Mac OS Terminal usin
 
 To run:
 
-Requires the installment of the JDK. Download assignment folder to preferred destination. Locate directory and compile using commands..
+1. Requires the installment of the JDK. 
+2. Download assignment folder to preferred destination.
+3. Locate directory and compile using commands..
 
-javac ApplicationName.java
-java ApplicationName
+- javac ApplicationName.java
+
+- java ApplicationName
 
 Extended directions could be found on the PBD website.
 
