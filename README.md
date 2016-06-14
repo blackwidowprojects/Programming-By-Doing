@@ -17,5 +17,5 @@ java ApplicationName
 
 Extended directions could be found on the PBD website.
 
-Thanks, 
+Thanks,
 Brandon Widow
